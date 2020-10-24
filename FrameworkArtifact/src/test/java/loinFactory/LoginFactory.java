@@ -26,7 +26,8 @@ public class LoginFactory extends GeneralFunctionality{
 	
 	@DataProvider(parallel=true)
 	public Object[][] data() throws InvalidFormatException, IOException {
-		System.out.println("a");
+		System.out.println("Test instead of a");
+		System.out.println("New Line added");
 		String proj_path=System.getProperty("user.dir");
 		System.out.println("b");
 		String [][]a=readExcel("C:\\Users\\amalbari\\Desktop\\Username.xlsx");
