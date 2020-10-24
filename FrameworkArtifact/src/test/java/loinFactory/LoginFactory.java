@@ -29,6 +29,7 @@ public class LoginFactory extends GeneralFunctionality{
 		System.out.println("Test instead of a");
 		System.out.println("New Line added");
 		System.out.println("New Branch");
+		System.out.println("New Branch is created and pusihing in new branch");
 		String proj_path=System.getProperty("user.dir");
 		System.out.println("b");
 		String [][]a=readExcel("C:\\Users\\amalbari\\Desktop\\Username.xlsx");
