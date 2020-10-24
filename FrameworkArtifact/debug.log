@@ -1,0 +1,14 @@
+[1016/012144.129:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1016/012647.286:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1016/012647.323:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1016/020006.783:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1016/020006.816:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1016/025306.886:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\amalbari\AppData\Local\Temp\scoped_dir410564_608584508\Crashpad\attachments\442a2dc7-9520-4466-83ff-d1762a13321c: The system cannot find the path specified. (0x3)
+[1016/025309.873:ERROR:http_transport_win.cc(363)] WinHttpReceiveResponse: The operation completed successfully. (0x0)
+[1017/203643.876:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/203643.929:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1018/135437.162:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1018/135940.326:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1018/135940.335:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1018/143259.818:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1018/143259.823:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
