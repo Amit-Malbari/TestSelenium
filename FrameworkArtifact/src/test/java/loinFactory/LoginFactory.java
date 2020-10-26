@@ -33,6 +33,7 @@ public class LoginFactory extends GeneralFunctionality{
 		System.out.println("New Branch is created and pusihing in new branch1");
 		System.out.println("New Branch is created and pusihing in new branch2");
 		System.out.println("New Branch is created and pusihing in new branch3");
+		System.out.println("Push");
 		String proj_path=System.getProperty("user.dir");
 		System.out.println("b");
 		String [][]a=readExcel("C:\\Users\\amalbari\\Desktop\\Username.xlsx");
