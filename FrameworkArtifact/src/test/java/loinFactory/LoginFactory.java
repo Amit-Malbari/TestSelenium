@@ -21,6 +21,7 @@ public class LoginFactory extends GeneralFunctionality{
 		System.out.println("b");
 		System.out.println(UserName + " " +Password);
 		return new Object[] {new LoginTest(UserName, Password)};
+	// comment
 	}
 	
 	
